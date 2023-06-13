@@ -1,0 +1,22 @@
+.bg-main-cont {
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #334155;
+  border-bottom: solid #52bbf0 4px;
+}
+
+.subCont {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.loader-spinner {
+  margin-top: 250px;
+}
